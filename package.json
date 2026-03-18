@@ -1,0 +1,19 @@
+{
+  "name": "mongo-tweets",
+  "version": "1.0.0",
+  "description": "MongoDB queries for ieeevis2020 tweets dataset",
+  "main": "index.js",
+  "scripts": {
+    "query1": "node Query1.js",
+    "query2": "node Query2.js",
+    "query3": "node Query3.js",
+    "query4": "node Query4.js",
+    "query5": "node Query5.js"
+  },
+  "keywords": ["mongodb", "tweets", "ieeevis"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
